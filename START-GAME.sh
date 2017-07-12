@@ -2,7 +2,7 @@ echo "NEED SUDO PERMS..."
 sudo -v
 echo "Hello, Welcome to Hank"
 sleep 2
-echo "You have two choices on each qestion."
+echo -e "You have \e[4mTwo \e[24mNChoices On each qestion."
 sleep 1
 echo "Are you ready?"
 echo -e "\e[31mHope you are 'cause im about to start...\e[0m"
