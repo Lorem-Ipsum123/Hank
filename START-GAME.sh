@@ -1,8 +1,8 @@
 echo "NEED SUDO PERMS..."
 sudo -v
-echo "Hello, Welcome to a game."
+echo "Hello, Welcome to Hank"
 sleep 2
-echo "You have to choices on each qestion."
+echo "You have two choices on each qestion."
 sleep 1
 echo "Are you ready?"
 echo "Hope you are 'cause im about to start..."
