@@ -21,7 +21,7 @@ read -p "Press D for door and T for torch (then press enter) [D/t]" dt
         [Dd]* ) echo "YOU DIED.";; sleep 2
         * ) echo "Please answer D or T.";;
     esac
-echo "IF YOU ARE SEEING THIS CONTACT DEVELOPER/s IMMEDILTY"
+echo "IF YOU ARE SEEING THIS GO TO: https://github.com/Enzotech2/Hank/issues"
 echo "Closing in 20 seconds..."
 sleep 20
 exit 1
