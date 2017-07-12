@@ -5,7 +5,7 @@ sleep 2
 echo "You have two choices on each qestion."
 sleep 1
 echo "Are you ready?"
-echo "Hope you are 'cause im about to start..."
+echo -e "\e[31mHope you are 'cause im about to start...\e[0m"
 sleep 5
 echo "5"
 sleep 1
