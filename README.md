@@ -5,3 +5,7 @@ If You find any bugs, issues or anything wrong with this game, go to https://git
 # Open to anyone!
 
 If you would like to help code this, contact me and your all set :)
+
+
+# Test this on windows:
+Click this: https://goo.gl/k738DW
