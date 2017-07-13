@@ -7,3 +7,4 @@ sleep 1
 echo "You think to yourself..."
 echo "Why am I here? How did I get here?"
 sleep 3
+./newroom1
