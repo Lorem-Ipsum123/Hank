@@ -22,6 +22,6 @@ read -p "Press D for door and T for torch (then press enter) [D/t]" dt
         * ) echo "Please answer D or T.";;
     esac
 echo "IF YOU ARE SEEING THIS GO TO: https://github.com/Enzotech2/Hank/issues"
-echo "Closing in 20 seconds..."
-sleep 20
+echo "Closing in 15 seconds..."
+sleep 15
 exit 1
